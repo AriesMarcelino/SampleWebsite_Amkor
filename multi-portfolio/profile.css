@@ -9,7 +9,7 @@ body {
 
 /* Navbar */
 .navbar {
-    background: #333;
+    background: gray;
     padding: 10px;
     position: sticky;
     top: 0;
