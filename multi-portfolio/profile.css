@@ -1,4 +1,5 @@
 body {
+    background-color: rgb(209, 232, 253);
     font-family: 'Times New Roman', Times, serif;
     margin: 0;
     padding: 0;
@@ -8,7 +9,7 @@ body {
 
 /* Navbar */
 .navbar {
-    background: #333;
+    background: gray;
     padding: 10px;
     position: sticky;
     top: 0;
